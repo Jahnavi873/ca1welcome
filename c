@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main()
-switch(c)
+swyulttyftyf(c)
 {
 case1:
 {
